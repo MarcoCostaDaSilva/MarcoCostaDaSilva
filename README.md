@@ -20,9 +20,20 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PYTHON"
+    title="PYTHON" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
 />
+<img 
+    align="left" 
+    alt="PANDAS"
+    title="PANDAS" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"           
+/>
+
+           
+          
