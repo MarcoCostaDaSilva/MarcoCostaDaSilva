@@ -148,7 +148,7 @@
 
 🎲 [Análise de Dados Qualitativos: "Elementos da Comunicação Não-Verbal em Saúde"]( <URL_DO_REPOSITORIO>) 📂
 
-🎲 [Avaliação do Nível de Satisfação Escolar e Aplicação de um Projeto de Educação Alimentar e Nutricional (EAN)](<URL_DO_REPOSITORIO>) 📂
+2014 [Avaliação do Nível de Satisfação Escolar e Aplicação de um Projeto de Educação Alimentar e Nutricional (EAN)](<URL_DO_REPOSITORIO>) 📂
 
        
                     
