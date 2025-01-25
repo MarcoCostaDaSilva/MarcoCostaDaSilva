@@ -125,7 +125,13 @@
 
 
 ## Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
- 
+
+🎲📊 **"25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?"**
+- **Tipo de dados:** Dados socioeconômicos, clínicos, nutricionais e comportamentais de idosos, incluindo IMC, suplementação de vitamina D, sazonalidade da coleta de sangue e padrões de atividade física.
+- **Análise estatística utilizada:** Regressão Logística Multivariável.
+- **Projeto desenvolvido na instituição:** Universidade Federal de São Carlos (UFSCAR), no programa de mestrado em Gerontologia.
+- **Apresentação no evento:** XII Congresso de Geriatria e Gerontologia - GERP2022, eixo de Epidemiologia.
+- **Certificado:** Disponível em link.
        
                     
           
