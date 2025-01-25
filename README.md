@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👨‍💻 Marco da Silva
 
-<!--
-**MarcoCostaDaSilva/MarcoCostaDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"Analista de Dados | Cientista de Dados | Estatístico | Desenvolvedor"**
 
-Here are some ideas to get you started:
+👋 Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para a área de Dados e Tecnologia. Sou graduado e pós-graduado em Nutrição e também Analista de Dados. Possuo experiência profissional e acadêmica com análises de dados financeiros, análise de dados em saúde (dados clínicos e dados biológicos) e também com dados epidemiológicos e populacionais. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Áreas de interesse:
+- Análise Preditiva
+- Big Data
+- Ciência de Dados
+- Data Storytelling
+- Estatística Aplicada
+- Machine Learning
+- Visualização de Dados 
+
+💡 Neste espaço busco compartilhar meus projetos que utilizem dados como ferramenta transformadora, especialmente nas áreas de análise e ciência de dado, programação e tecnologia.
+
+---
+***🤖 Linguagens e Tecnologias:***
+<img
+    align="left"
+    alt="python"
+    title="python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
