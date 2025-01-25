@@ -1,4 +1,4 @@
-# 👨‍💻 Marco da Silva
+# 👨‍💻 Marco Aurélio Costa da Silva
 
 **"Analista de Dados | Cientista de Dados | Estatístico | Desenvolvedor"**
 
