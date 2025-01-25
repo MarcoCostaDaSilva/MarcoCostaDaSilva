@@ -129,7 +129,7 @@
 ## Projetos Autorais de Machine Learning
 
 
-🧠 [Séries temporais: “Análise de Séries Temporais por Biomas Brasileiros anos 2020 – 2023”](https://github.com/MarcoCostaDaSilva/Projeto_Series_Temporais) 📂
+🧠 Séries Temporais: [“Análise de Séries Temporais por Biomas Brasileiros anos 2020 – 2023”](https://github.com/MarcoCostaDaSilva/Projeto_Series_Temporais) 📂
 
 
 
