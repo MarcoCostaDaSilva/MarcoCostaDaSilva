@@ -126,20 +126,20 @@
 
 
 
-## Projetos Autorais de Machine Learning
+## 📌 Projetos Autorais de Machine Learning
 
 
 🧠 Séries Temporais: [“Análise de Séries Temporais por Biomas Brasileiros anos 2020 – 2023”](https://github.com/MarcoCostaDaSilva/Projeto_Series_Temporais) 📂
 
 
 
-## Exercícios de Machine Learning e Estatística
+## 📌 Exercícios de Machine Learning e Estatística
 
 
 
 
 
-## Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
+## 📌 Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
 
 
 2021 - 2022: [Técnica de Regressão Logística Multivariável: 25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?](<URL_DO_REPOSITORIO>) 📂
