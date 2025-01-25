@@ -34,6 +34,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"           
 />
-
+<img 
+    align="left" 
+    alt="NUMPY"
+    title="NUMPY" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"           
+/>
            
+          
+            
           
