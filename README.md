@@ -22,7 +22,7 @@
     align="left" 
     alt="PYTHON"
     title="PYTHON" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
 />
@@ -30,7 +30,7 @@
     align="left" 
     alt="PANDAS"
     title="PANDAS" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"           
 />
@@ -38,7 +38,7 @@
     align="left" 
     alt="NUMPY"
     title="NUMPY" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"           
 />        
@@ -46,39 +46,39 @@
     align="left" 
     alt="SCIKITLEARN"
     title="SCIKITLEARN" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"           
 />
 <img 
     align="left" 
     alt="MATPLOTLIB"
     title="MATPLOTLIB" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"           
 />
 <img 
     align="left" 
     alt="GIT"
     title="GIT" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    wwidth="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"           
 /> 
 <img 
     align="left" 
     alt="GITHUB"
     title="GITHUB" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"           
 /> 
 <img 
     align="left" 
     alt="JUPYTER"
     title="JUPYTER" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"           
 /> 
@@ -86,7 +86,7 @@
     align="left" 
     alt="MYSQL"
     title="MYSQL" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"           
 /> 
@@ -94,15 +94,15 @@
     align="left" 
     alt="PLOTLY"
     title="PLOTLY" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"           
 />      
 <img 
     align="left" 
     alt="POSTGRESQL"
     title="POSTGRESQL" 
-    width="40px" 
+   width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"           
 /> 
@@ -118,15 +118,15 @@
     align="left" 
     alt="STATA"
     title="STATA" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg"           
 />
 <img 
     align="left" 
     alt="VISUALSTUDIO"
     title="VISUALSTUDIO" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"           
 />
@@ -134,15 +134,15 @@
     align="left" 
     alt="VSCODE"
     title="VSCODE" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"           
 />
 <img 
     align="left" 
     alt="ANACONDA"
     title="ANACONDA" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"           
 />
@@ -150,8 +150,8 @@
     align="left" 
     alt="C"
     title="C" 
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="30px" 
+    style="padding-right: 10px;"" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"           
 />
     
