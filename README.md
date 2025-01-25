@@ -16,13 +16,13 @@
 💡 Neste espaço busco compartilhar meus projetos que utilizem dados como ferramenta transformadora, especialmente nas áreas de análise e ciência de dado, programação e tecnologia.
 
 ---
-***🤖 Linguagens e Tecnologias:***
-<img
-    align="left"
-    alt="python"
-    title="python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
+/>
