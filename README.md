@@ -16,7 +16,7 @@
 💡 Neste espaço busco compartilhar meus projetos que utilizem dados como ferramenta transformadora, especialmente nas áreas de análise e ciência de dado, programação e tecnologia.
 
 ---
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img 
