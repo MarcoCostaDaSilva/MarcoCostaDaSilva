@@ -1,4 +1,4 @@
-## 👨‍💻 Marco da Silva
+# 👨‍💻 Marco da Silva
 
 **"Analista de Dados | Cientista de Dados | Estatístico | Desenvolvedor"**
 
@@ -16,7 +16,7 @@
 💡 Neste espaço busco compartilhar meus projetos que utilizem dados como ferramenta transformadora, especialmente nas áreas de análise e ciência de dado, programação e tecnologia.
 
 ---
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img 
@@ -122,6 +122,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"           
     />
 </div>
+---
 
 
  
