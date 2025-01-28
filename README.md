@@ -136,6 +136,7 @@
 ## 📌 Exercícios de Machine Learning e Estatística
 
 🦾 Exercício de Machine Learning: [ML Clusterização 01](https://github.com/MarcoCostaDaSilva/Exercicio_ML_Clusterizacao_01) 📂
+
 🦾 Exercício de Machine Learning: [ML NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01) 📂
 
 
