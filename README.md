@@ -15,6 +15,7 @@
 
 💡 Neste espaço busco compartilhar meus projetos que utilizem dados como ferramenta transformadora, especialmente nas áreas de análise e ciência de dado, programação e tecnologia.
 
+💡 Acredito no conceito do Life Long Learning (Aprendizado Contínuo) que é a prática de buscar aprendizado ao longo de toda a vida, com o objetivo de se adaptar a novas demandas, aprimorar habilidades e expandir conhecimentos. [Confira aqui 📂](https://github.com/MarcoCostaDaSilva/ContinuingEducation) meu processo de educação continuada na área de Dados e Tecnologia.
 ---
 ## Linguagens e Tecnologias
 
