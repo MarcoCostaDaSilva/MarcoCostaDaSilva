@@ -147,7 +147,7 @@
 ## 📌 Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
 
 
-2021 - 2022: [Técnica de Regressão Logística Multivariável: 25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?](<URL_DO_REPOSITORIO>) 📂
+2021 - 2022: [Técnica de Regressão Logística Multivariável: 25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?](https://github.com/MarcoCostaDaSilva/vitaminad) 📂
 
 
 2021 - 2022: [Técnica de Regressão Logística Multivariável: As mudanças relacionadas à idade na composição corporal e seu impacto na probabilidade de sobrevivência de idosos](<URL_DO_REPOSITORIO>) 📂
