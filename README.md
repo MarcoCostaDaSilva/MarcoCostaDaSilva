@@ -1,8 +1,8 @@
-# 👨‍💻 Marco Aurélio Costa da Silva
+# Marco Aurélio Costa da Silva  
 
-**"Analista de Dados | Cientista de Dados | Estatístico | Desenvolvedor"**
+**Analista de Dados | Cientista de Dados | Estatístico | Desenvolvedor**
 
-👋 Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para a área de Dados e Tecnologia. Sou graduado e pós-graduado em Nutrição e também Analista de Dados. Possuo experiência profissional e acadêmica com análises de dados financeiros, análise de dados em saúde (dados clínicos e dados biológicos) e também com dados epidemiológicos e populacionais. 
+Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para a área de Dados e Tecnologia. Sou graduado e pós-graduado em Nutrição e também Analista de Dados. Possuo experiência profissional e acadêmica com análises de dados financeiros, análise de dados em saúde (dados clínicos e dados biológicos) e também com dados epidemiológicos e populacionais. 
 
 🎯 Áreas de interesse:
 - Análise Preditiva
@@ -20,131 +20,44 @@
 ---
 ## Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img 
-        alt="PYTHON"
-        title="PYTHON" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
-    />
-    <img 
-        alt="PANDAS"
-        title="PANDAS" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"           
-    />
-    <img 
-        alt="NUMPY"
-        title="NUMPY" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"           
-    />        
-    <img 
-        alt="SCIKITLEARN"
-        title="SCIKITLEARN" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"           
-    />
-    <img 
-        alt="MATPLOTLIB"
-        title="MATPLOTLIB" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"           
-    />
-    <img 
-        alt="GIT"
-        title="GIT" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"           
-    /> 
-    <img 
-        alt="GITHUB"
-        title="GITHUB" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"           
-    /> 
-    <img 
-        alt="JUPYTER"
-        title="JUPYTER" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"           
-    /> 
-    <img 
-        alt="MYSQL"
-        title="MYSQL" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"           
-    /> 
-    <img 
-        alt="PLOTLY"
-        title="PLOTLY" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"           
-    />      
-    <img 
-        alt="POSTGRESQL"
-        title="POSTGRESQL" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"           
-    /> 
-    <img 
-        alt="SQLDEVELOPER"
-        title="SQLDEVELOPER" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"           
-    />
-    <img 
-        alt="STATA"
-        title="STATA" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg"           
-    />
-    <img 
-        alt="VISUALSTUDIO"
-        title="VISUALSTUDIO" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"           
-    />
-    <img 
-        alt="VSCODE"
-        title="VSCODE" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"           
-    />
-    <img 
-        alt="ANACONDA"
-        title="ANACONDA" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"           
-    />
-    <img 
-        alt="C"
-        title="C" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"           
-    />
-</div>
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/SQL%20Developer-044F88?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL Developer">
+    <img src="https://img.shields.io/badge/Stata-1A476F?style=for-the-badge&logo=stata&logoColor=white" alt="Stata">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</p>
+
+
+
+##  🔹 Projetos Autorais de Machine Learning
+
+
+Séries Temporais: [“Análise de Séries Temporais por Biomas Brasileiros anos 2020 – 2023”](https://github.com/MarcoCostaDaSilva/Projeto_Series_Temporais) 📂
+
+
+
+## 🔹 Exercícios de Machine Learning e Estatística
+
+Exercício de Machine Learning: [ML Clusterização 01](https://github.com/MarcoCostaDaSilva/Exercicio_ML_Clusterizacao_01) 📂
+
+Exercício de Machine Learning: [ML NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01) 📂
 
 
 
 
-## 📌 Projetos Autorais de Machine Learning
-
-
-🧠 Séries Temporais: [“Análise de Séries Temporais por Biomas Brasileiros anos 2020 – 2023”](https://github.com/MarcoCostaDaSilva/Projeto_Series_Temporais) 📂
-
-
-
-## 📌 Exercícios de Machine Learning e Estatística
-
-🦾 Exercício de Machine Learning: [ML Clusterização 01](https://github.com/MarcoCostaDaSilva/Exercicio_ML_Clusterizacao_01) 📂
-
-🦾 Exercício de Machine Learning: [ML NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01) 📂
-
-
-
-
-## 📌 Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
+## 🔹 Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
 
 
 2021 - 2022: [Técnica de Regressão Logística Multivariável: 25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?](https://github.com/MarcoCostaDaSilva/vitaminad) 📂
