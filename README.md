@@ -50,9 +50,9 @@ Séries Temporais: [“Análise de Séries Temporais por Biomas Brasileiros anos
 
 ## 🔹 Exercícios de Machine Learning e Estatística
 
-Exercício de Machine Learning: [ML Clusterização 01](https://github.com/MarcoCostaDaSilva/Exercicio_ML_Clusterizacao_01) 📂
+- Exercício de Machine Learning: [ML Clusterização 01](https://github.com/MarcoCostaDaSilva/Exercicio_ML_Clusterizacao_01) 
 
-Exercício de Machine Learning: [ML NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01) 📂
+- Exercício de Machine Learning: [ML NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01) 
 
 
 
@@ -60,40 +60,40 @@ Exercício de Machine Learning: [ML NLP 01](https://github.com/MarcoCostaDaSilva
 ## 🔹 Projetos Profissionais e Acadêmicos de Análises de Dados e Estatística 
 
 
-2021 - 2022: [Técnica de Regressão Logística Multivariável: 25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?](https://github.com/MarcoCostaDaSilva/vitaminad) 📂
+- 2021 - 2022: [Técnica de Regressão Logística Multivariável: 25-hidroxivitamina D em adultos mais velhos, quais fatores realmente importam?](https://github.com/MarcoCostaDaSilva/vitaminad) 
 
 
-2021 - 2022: [Técnica de Regressão Logística Multivariável: As mudanças relacionadas à idade na composição corporal e seu impacto na probabilidade de sobrevivência de idosos](<URL_DO_REPOSITORIO>) 📂
+- 2021 - 2022: [Técnica de Regressão Logística Multivariável: As mudanças relacionadas à idade na composição corporal e seu impacto na probabilidade de sobrevivência de idosos](<URL_DO_REPOSITORIO>)
 
 
-2021: [A experiência do uso de aplicativo de mensagens como suporte no aconselhamento nutricional de pacientes em tratamento de hemodiálise](<URL_DO_REPOSITORIO>) 📂
+- 2021: [A experiência do uso de aplicativo de mensagens como suporte no aconselhamento nutricional de pacientes em tratamento de hemodiálise](<URL_DO_REPOSITORIO>) 
 
 
-2021: [Implementação do protocolo sobre triagem da disfagia, em pacientes submetidos à hemodiálise em um instituto no interior de São Paulo](<URL_DO_REPOSITORIO>) 📂
+- 2021: [Implementação do protocolo sobre triagem da disfagia, em pacientes submetidos à hemodiálise em um instituto no interior de São Paulo](<URL_DO_REPOSITORIO>) 
 
 
-2020 - 2021: [Modelos Hierárquicos de Regressão Linear Multivariada: Relação entre a Circunferência da Panturrilha e o Músculo Adutor do Polegar na Avaliação Muscular de Pacientes em Hemodiálise](<URL_DO_REPOSITORIO>) 📂
+- 2020 - 2021: [Modelos Hierárquicos de Regressão Linear Multivariada: Relação entre a Circunferência da Panturrilha e o Músculo Adutor do Polegar na Avaliação Muscular de Pacientes em Hemodiálise](<URL_DO_REPOSITORIO>) 
 
 
-2020 - 2021: [Avaliação do Estado Nutricional e da Composição Corporal de Idosos em Hemodiálise através de Bioimpedância Multifrequencial](<URL_DO_REPOSITORIO>) 📂
+- 2020 - 2021: [Avaliação do Estado Nutricional e da Composição Corporal de Idosos em Hemodiálise através de Bioimpedância Multifrequencial](<URL_DO_REPOSITORIO>) 
 
 
-2020 - 2021: [Avaliação do Estado de Hidratação e Nutricional em Pacientes em Diálise Peritoneal](<URL_DO_REPOSITORIO>) 📂
+- 2020 - 2021: [Avaliação do Estado de Hidratação e Nutricional em Pacientes em Diálise Peritoneal](<URL_DO_REPOSITORIO>) 
 
 
-2018 - 2019: [Análise de Correlação em Estatística: "Relação da Albumina Plasmática com o Estado de Hidratação, Água Extracelular, Massa Celular e Ângulo de Fase em Pacientes com Estado Nutricional Baixo Peso Submetidos à Hemodiálise"]( <URL_DO_REPOSITORIO>) 📂
+- 2018 - 2019: [Análise de Correlação em Estatística: "Relação da Albumina Plasmática com o Estado de Hidratação, Água Extracelular, Massa Celular e Ângulo de Fase em Pacientes com Estado Nutricional Baixo Peso Submetidos à Hemodiálise"]( <URL_DO_REPOSITORIO>) 
 
 
-2016 - 2017: [Relação entre Índice de Massa Corporal e Insônia: Uma Revisão de Estudos de Coortes](<URL_DO_REPOSITORIO>) 📂
+- 2016 - 2017: [Relação entre Índice de Massa Corporal e Insônia: Uma Revisão de Estudos de Coortes](<URL_DO_REPOSITORIO>) 
 
 
-2015 - 2016: [Análise de Dados Qualitativos - "Comunicação em Saúde: Uma técnica que se aprende"]( <URL_DO_REPOSITORIO>) 📂
+- 2015 - 2016: [Análise de Dados Qualitativos - "Comunicação em Saúde: Uma técnica que se aprende"]( <URL_DO_REPOSITORIO>) 
 
 
-2014 - 2015: [Análise de Dados Qualitativos: "Elementos da Comunicação Não-Verbal em Saúde"]( <URL_DO_REPOSITORIO>) 📂
+- 2014 - 2015: [Análise de Dados Qualitativos: "Elementos da Comunicação Não-Verbal em Saúde"]( <URL_DO_REPOSITORIO>) 
 
 
-2014: [Avaliação do Nível de Satisfação Escolar e Aplicação de um Projeto de Educação Alimentar e Nutricional (EAN)](<URL_DO_REPOSITORIO>) 📂
+- 2014: [Avaliação do Nível de Satisfação Escolar e Aplicação de um Projeto de Educação Alimentar e Nutricional (EAN)](<URL_DO_REPOSITORIO>) 
 
        
                     
