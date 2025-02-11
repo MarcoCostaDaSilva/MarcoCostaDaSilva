@@ -65,6 +65,7 @@ Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para
 
 - 2021 - 2022: [Técnica de Regressão Logística Multivariável: As mudanças relacionadas à idade na composição corporal e seu impacto na probabilidade de sobrevivência de idosos](https://github.com/MarcoCostaDaSilva/mudancas)
 
+- 2021 - 2022: [Parâmetros derivados da bioimpendância espectroscópica na avaliação da composição corporal de idosos submetidos à hemodiálise](https://github.com/MarcoCostaDaSilva/parametros)  
 
 - 2021: [A experiência do uso de aplicativo de mensagens como suporte no aconselhamento nutricional de pacientes em tratamento de hemodiálise](<URL_DO_REPOSITORIO>) 
 
