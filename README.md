@@ -17,6 +17,13 @@ Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para
 
 💡 Acredito no conceito do Life Long Learning (Aprendizado Contínuo) que é a prática de buscar aprendizado ao longo de toda a vida, com o objetivo de se adaptar a novas demandas, aprimorar habilidades e expandir conhecimentos. [Confira aqui](https://github.com/MarcoCostaDaSilva/ContinuingEducation) meu processo de educação continuada na área de Dados e Tecnologia.
 
+## **Formações**
+
+### **🎓 Analista de Dados**
+- Bootcamp Profissionalizante Imersivo. Soul Code Academy.
+- Conclusão em setembro de 2024
+- [Certificado Analista de Dados](https://drive.google.com/file/d/1qiBh9MeLUL50uszrL_XHy1lZvB0Wm9I4/view) 
+
 ---
 ## Linguagens e Tecnologias
 
