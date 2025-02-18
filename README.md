@@ -59,7 +59,11 @@ Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para
 
 - Exercício de Machine Learning: [Clusterização 01](https://github.com/MarcoCostaDaSilva/Exercicio_ML_Clusterizacao_01) 
 
-- Exercício de Machine Learning: [NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01) 
+- Exercício de Machine Learning: [NLP 01](https://github.com/MarcoCostaDaSilva/ML_NLP_01)
+  
+- Exercícios de Programação em C: [Programação em C](https://github.com/MarcoCostaDaSilva/Exercicios_Programacao_C)
+  
+- Exercícios de Programação em Python: [Programação Python](https://github.com/MarcoCostaDaSilva/Exercicios_Programacao_Python) 
 
 
 
