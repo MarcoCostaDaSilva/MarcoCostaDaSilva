@@ -19,6 +19,13 @@ Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para
 
 ## 🎓 **Formações:**
 
+### **🎓 Google Certificação Profissional em Inteligência de Negócios / Bussiness Inteligence**
+- Carga Horária: 49 horas
+- Conclusão em março de 2025
+- [Google Business Intelligence Professional Certificate](https://drive.google.com/file/d/1vOpMJybDoCUH9zcYzNJ4hqHmvhFg508i/view?usp=sharing)
+- [Google Business Intelligence Certificate Badge](https://drive.google.com/file/d/1AH_1-JUImvVpnIoJdiYcT7CgvU7AC435/view?usp=sharing)
+  
+
 ### **🎓 Google Certificação Profissional em Análise de Dados Avançada**
 - Carga Horária: 164 horas
 - Conclusão em março de 2025
@@ -27,6 +34,7 @@ Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para
 
 ### **🎓 Analista de Dados**
 - Bootcamp Profissionalizante Imersivo. Soul Code Academy.
+- Carga Horária: 480 horas
 - Conclusão em setembro de 2024
 - [Certificado Analista de Dados](https://drive.google.com/file/d/1qiBh9MeLUL50uszrL_XHy1lZvB0Wm9I4/view) 
 
