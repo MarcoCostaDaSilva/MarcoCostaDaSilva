@@ -19,6 +19,12 @@ Olá, eu sou o Marco, atualmente estou em transição de carreira, migrando para
 
 ## 🎓 **Formações:**
 
+### **🎓 Google Certificação Profissional em Análise de Dados Avançada**
+- Carga Horária: 164 horas
+- Conclusão em março de 2025
+- [Google Advanced Data Analytics Professional Certificate](https://drive.google.com/file/d/1RWWMBxKV5klQxxBQvHXKj_tk7i1sBh5z/view?usp=sharing)
+- [Google Advanced Data Analytics Certificate Badge](https://drive.google.com/file/d/1LxthZ4z_XpQTIexY6a-3StG7wf4I2H0S/view?usp=sharing) 
+
 ### **🎓 Analista de Dados**
 - Bootcamp Profissionalizante Imersivo. Soul Code Academy.
 - Conclusão em setembro de 2024
